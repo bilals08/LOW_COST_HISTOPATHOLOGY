@@ -1,9 +1,9 @@
 ## All data folders
-/dataset/microscopic/**
+/dataset/microscopic/**/
 
-/dataset/MITOS/**
+/dataset/MITOS/**/
 
-/dataset/SKMH/**
+/dataset/SKMH/**/
 
 ## Weight Files
 *.pth
