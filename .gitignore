@@ -5,10 +5,12 @@
 
 /dataset/SKMH/**/
 
+
 ## Weight Files
 *.pth
-*.zip
 
 
 
+## Cache and Checkpoints
 *.DS_Store
+*.ipynb_checkpoints
