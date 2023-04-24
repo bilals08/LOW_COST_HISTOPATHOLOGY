@@ -1,5 +1,5 @@
 ## All data folders
-/dataset/
+/dataset/*
 
 ## Weight Files
 *.pth
