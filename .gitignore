@@ -8,3 +8,7 @@
 ## Weight Files
 *.pth
 *.zip
+
+
+
+*.DS_Store
