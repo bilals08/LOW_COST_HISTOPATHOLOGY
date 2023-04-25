@@ -12,6 +12,6 @@
 
 
 ## Cache and Checkpoints
-*.DS_Store
+.DS_Store
 *.DS_Store/*
 *.ipynb_checkpoints/*
